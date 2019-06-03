@@ -10,3 +10,8 @@ corrida es 000, la segunda 11, la tercera 00, la cuarta 1 y la quinta 00.
 X_R, n_1 es el numero de veces que ha corrido el primer evento y n_2 es
 el número de veces que ha ocurrido el segundo evento.  
 ![imagen](https://github.com/RicardoCapa/Prueba_de-_Poker_y_Corridas/blob/master/imagenes/2.png)  
+• S_R es la desviación estándar de las corridas  
+
+• Z_0 como el estadístico para la aproximación normal de los datos,
+R es el número de corridas y h es la correlación para continuidad  
+![imagen](https://github.com/RicardoCapa/Prueba_de-_Poker_y_Corridas/blob/master/imagenes/3.png) 
