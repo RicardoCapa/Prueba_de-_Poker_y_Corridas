@@ -16,6 +16,9 @@ el número de veces que ha ocurrido el segundo evento.
 R es el número de corridas y h es la correlación para continuidad  
 ![imagen](https://github.com/RicardoCapa/Prueba_de-_Poker_y_Corridas/blob/master/imagenes/3.png) 
 
-Inplementado en java recorremos el arreglo donde se encuentran los numeros con un ciclo for colocando los numeros menosres que 0,5 como 0 y los numeros mayores de 0.5 como 1.  
+Inplementado en java recorremos el arreglo donde se encuentran los numeros con un ciclo for colocando los numeros menores que 0,5 como 0 y los numeros mayores de 0.5 como 1.  
 
-![imagen](https://github.com/RicardoCapa/Prueba_de-_Poker_y_Corridas/blob/master/imagenes/4.png)
+![imagen](https://github.com/RicardoCapa/Prueba_de-_Poker_y_Corridas/blob/master/imagenes/4.png)  
+Los resultados obtenidos son los siguientes:  
+![imagen](https://github.com/RicardoCapa/Prueba_de-_Poker_y_Corridas/blob/master/imagenes/5.png)  
+
